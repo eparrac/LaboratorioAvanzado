@@ -1,0 +1,2 @@
+archivo,fs_Hz,n_muestras,nperseg,noverlap,ventana,P_0_40kHz_V2,P_0_50kHz_V2
+F0022CH1.CSV,100000.00000000001,2500,1024,512,hann,10.23613620620555,10.379926565596339
